@@ -1,0 +1,23 @@
+/* contact page*/
+.card_style {
+  color: #5a5858;
+}
+
+
+/* LogIn page*/
+
+
+/* Signup page*/
+.inputcss {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid rgb(204, 201, 201);
+  outline: none;
+}
+.inputcss:hover {
+  border-bottom: 3px solid rgb(25, 113, 230);
+  transition: 1.5s;
+}
